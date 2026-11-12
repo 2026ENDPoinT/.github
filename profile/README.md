@@ -1,27 +1,21 @@
-<a href="https://2026endpoint.github.io"><img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/banner.svg" alt="ENDPoinT 2026 · 서울과학기술대학교 컴퓨터공학과 해커톤 · 11.13 (금) 19:00 – 11.14 (토) 10:00 · 미래관 109호" width="100%"></a>
+<a href="https://2026endpoint.github.io"><img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/banner.svg?v=2" alt="ENDPoinT 2026 · 서울과학기술대학교 컴퓨터공학과 해커톤 · 11.13 (금) 19:00 – 11.14 (토) 10:00 · 미래관 109호" width="100%"></a>
 
 <p>
 <a href="https://2026endpoint.github.io"><b>대회 사이트</b></a> · 주관 컴퓨터공학과 · 주최 TCP · EC · NL · PLUM · 다락방
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h01-dark.svg">
-  <img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h01-light.svg" alt="01. About · 대회 소개" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h01.svg?v=2" alt="01. About · 대회 소개" width="100%">
 
 서로 다른 스택과 성격을 가진 다섯 학술 동아리가 처음으로 함께 여는 컴퓨터공학과 해커톤입니다.
 
-<img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/clubs.svg" alt="주관 동아리: EC · NL · 다락방 · Plum · TCP" width="100%">
+<img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/clubs.svg?v=2" alt="주관 동아리: EC · NL · 다락방 · Plum · TCP" width="100%">
 
 **두 개의 트랙**
 
 - **해커톤 트랙**: 주제를 받아 서비스를 새로 만듭니다.
 - **구현과제 트랙**: 주어진 과제를 단계별로 구현합니다.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h02-dark.svg">
-  <img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h02-light.svg" alt="02. Schedule · 본 해커톤" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h02.svg?v=2" alt="02. Schedule · 본 해커톤" width="100%">
 
 | | |
 | --- | --- |
@@ -30,10 +24,7 @@
 | 개발 마감 | **11.14 (토) 10:00** · 이후 repo 수정 불가 |
 | 발표 · 평가 | 11.14 (토) 10:00부터, 이후 시상과 경품 추첨 |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h03-dark.svg">
-  <img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h03-light.svg" alt="03. Repository · 팀 repo 안내" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h03.svg?v=2" alt="03. Repository · 팀 repo 안내" width="100%">
 
 - 각 팀은 이 organization 안의 **자기 팀 repo**(`team01` ~ `team20`)에서 작업합니다. 다른 팀 repo는 볼 수 없습니다.
 - 조장은 repo 관리 권한(maintain)을, 팀원은 쓰기 권한을 받습니다.
@@ -46,12 +37,9 @@
 - API 키, `.env`, 비밀번호 같은 비밀 값은 커밋하지 마세요. 한 번 커밋하면 지워도 기록에 남습니다.
 - 외부 서비스(Vercel, Render 등)를 연결할 때 GitHub 앱 설치 요청이 운영진에게 갑니다. 운영진이 확인한 뒤 **자기 팀 repo에만** 허용합니다.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h04-dark.svg">
-  <img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h04-light.svg" alt="04. Judging · 심사 기준" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h04.svg?v=2" alt="04. Judging · 심사 기준" width="100%">
 
-<img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/judging.svg" alt="심사 비중 심사위원 75 : 참가자 투표 25 · 문제 정의·아이디어, 완성도, 사용자 경험, 구조적 이해 각 25점" width="100%">
+<img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/judging.svg?v=2" alt="심사 비중 심사위원 75 : 참가자 투표 25 · 문제 정의·아이디어, 완성도, 사용자 경험, 구조적 이해 각 25점" width="100%">
 
 ### 심사위원 평가
 
@@ -93,10 +81,7 @@
 | 제출 마감 | 11.14 (토) 10:00 이후 수정 불가 |
 | 중복 작품 | 캡스톤디자인 작품과 중복 시 실격 가능 |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h05-dark.svg">
-  <img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h05-light.svg" alt="05. Prize · 시상" width="100%">
-</picture>
+<img src="https://raw.githubusercontent.com/2026ENDPoinT/.github/main/profile/assets/h05.svg?v=2" alt="05. Prize · 시상" width="100%">
 
 총상금 **300만 원**
 
